@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "708008678763",
+    "project_id": "databasetutorial-e6edf",
+    "storage_bucket": "databasetutorial-e6edf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708008678763:android:9086c68449821506eb682e",
+        "android_client_info": {
+          "package_name": "com.example.firetuto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYG7OuGD9jx5kNO0Q_MxmAYIr13s_jbMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
